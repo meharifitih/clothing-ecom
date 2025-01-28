@@ -29,7 +29,6 @@ class App extends React.Component {
               ...snapShoot.data(),
             },
           });
-          console.log(this.state);
         });
       }
 
